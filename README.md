@@ -1,5 +1,7 @@
-Broken Rock Paper Scissors
+Rock Paper Scissors
 --------------------------
+
+A simple game to pass the time.
 
 Here is a URL to the broken version of this application:
 
